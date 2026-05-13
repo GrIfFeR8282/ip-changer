@@ -3,7 +3,7 @@
 
 # Disclaimer
 
-This tool is optimized only for Debian-based Linux distributions, I'm looking for contributors who use Arch-based/non-Debian-based distros or macOS for test and contribute to this project, feel free 
+This tool is optimized only for Debian-based Linux distributions, I'm looking for contributors who use Arch-based/non-Debian-based distros or macOS for test and contribute to this code, feel free 
 to create forks, submit pull requests and send issues.
 
 This is a practice project for learning GitHub workflow, i do not have plans to release frequent updates.
